@@ -99,19 +99,15 @@ conda activate ytdlp
 إذا كان Git مثبتًا، انتقل إلى المجلد الذي تريد وضع المشروع داخله، ثم نفّذ:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/youtube-downloader.git
+git clone https://github.com/asmaa-alahmad/youtube-downloader.git
 ```
 
-استبدل `YOUR-USERNAME` باسم حسابك الحقيقي على GitHub.
 
 انتقل إلى مجلد المشروع:
 
 ```bash
 cd youtube-downloader
 ```
-
-إذا كان المستودع خاصًا، يجب تسجيل الدخول أو إعداد صلاحية الوصول إليه.
-
 ### الخطوة الرابعة: تثبيت مكتبات Python
 
 تأكد من تفعيل البيئة `ytdlp`، ثم نفّذ:
